@@ -1,0 +1,6 @@
+c:\users\ieuser\documents\visual studio 2015\Projects\Product\Product\bin\Debug\Product.exe.config
+C:\Users\IEUser\Documents\Visual Studio 2015\Projects\Product\Product\obj\Debug\Product.csprojResolveAssemblyReference.cache
+C:\Users\IEUser\Documents\Visual Studio 2015\Projects\Product\Product\bin\Debug\Product.exe
+C:\Users\IEUser\Documents\Visual Studio 2015\Projects\Product\Product\bin\Debug\Product.pdb
+C:\Users\IEUser\Documents\Visual Studio 2015\Projects\Product\Product\obj\Debug\Product.exe
+C:\Users\IEUser\Documents\Visual Studio 2015\Projects\Product\Product\obj\Debug\Product.pdb
